@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KrishBishwakarma
-- 👀 I’m interested in coding and learning new programming languages
+- 👀 I’m interested in learning new things and making new Android projects
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Contact my work email : krishbishwakarma587@gmail.com
+- 💞️ I’m looking to collaborate on my upcoming projects...
+- 📫 How to reach me : work email : krishbishwakarma587@gmail.com
 
 <!---
 KrishBishwakarma/KrishBishwakarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
